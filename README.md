@@ -28,4 +28,8 @@ The price of had an impact on survival.  However, the most interesting informati
 Female passengers had a significantly higher survival rates by percentage.  However, it should be noted that there were significantly fewer females on board to begin with so a percentage made the data more clear.
 Further pursuit in this data would consider the port of call and the impact on survival.  
 While the sibling and parent information was removed, after the analysis, it would be interesting to determine sole survivors, loss of total family, etc.   
+<<<<<<< HEAD
 It would also be interesting to know about the crew survival rates.
+=======
+It would also be interesting to know about the crew survival rates.
+>>>>>>> 56cdf73021f31e42f62370e000d9b827b0aa6561
